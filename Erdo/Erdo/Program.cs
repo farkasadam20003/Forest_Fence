@@ -7,8 +7,8 @@ namespace Erdo
     class Program
     {
 
-        public static int n = 1000;
-        public static int sizex = 100;
+        public static int n = 10;
+        public static int sizex = 20;
         public static int sizey = sizex;
         public static int[,] trees = new int[n, 2];
 
@@ -65,6 +65,11 @@ namespace Erdo
                 j++;
                 angle += angle_step;
             }
+            xA = Convert.ToDouble(trees[min_index[j-1], 0]);
+            xB = Convert.ToDouble(trees[min_index[0], 0]);
+            yA = Convert.ToDouble(trees[min_index[j-1], 1]);
+            yB = Convert.ToDouble(trees[min_index[0], 1]);
+            FenceLength += Math.Sqrt(Math.Pow(xA - xB, 2) + Math.Pow(yA - yB, 2));
             Console.WriteLine("The length of fence: {0}",FenceLength);
             watch.Stop();
             var elapsed = watch.Elapsed;
