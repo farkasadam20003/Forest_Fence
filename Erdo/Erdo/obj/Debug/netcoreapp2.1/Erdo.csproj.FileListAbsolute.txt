@@ -1,0 +1,11 @@
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.csproj.CoreCompileInputs.cache
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.AssemblyInfoInputs.cache
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.AssemblyInfo.cs
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\bin\Debug\netcoreapp2.1\Erdo.deps.json
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\bin\Debug\netcoreapp2.1\Erdo.runtimeconfig.json
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\bin\Debug\netcoreapp2.1\Erdo.runtimeconfig.dev.json
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\bin\Debug\netcoreapp2.1\Erdo.dll
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\bin\Debug\netcoreapp2.1\Erdo.pdb
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.dll
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.pdb
+C:\Users\Farkas Adam\source\repos\Erdo\Erdo\obj\Debug\netcoreapp2.1\Erdo.csprojAssemblyReference.cache
